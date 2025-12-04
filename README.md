@@ -1,3 +1,20 @@
+## 📸 Screenshots (Working Demo)
+
+### 🔐 Login Page
+![Login Page](./screenshots/login.jpg)
+
+### 🏠 Home — Contacts Dashboard
+![Home Page](./screenshots/home.jpg)
+
+### 👥 Group Rooms — Create & Manage Rooms
+![Rooms Page](./screenshots/room.jpg)
+
+### 💬 Real-time Chat — Text, Images & File Sharing
+![Chat Page](./screenshots/chat.jpg)
+
+### 👤 User Profile — Update Name, Email & Avatar
+![Profile Page](./screenshots/profile.jpg)
+
 # Fullstack Chat App (MERN + Socket.IO)
 
 Real-time chat application built with the MERN stack and Socket.IO. It supports direct messages, group chat rooms, image uploads, and generic file attachments — all persisted in MongoDB. Authentication is handled via HTTP-only JWT cookies.
